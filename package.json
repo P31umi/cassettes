@@ -11,8 +11,6 @@
   },
   "now": {
     "alias": [
-      "syntax",
-      "syntax.fm"
     ]
   },
   "dependencies": {

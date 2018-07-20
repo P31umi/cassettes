@@ -20,7 +20,7 @@ export default ({ show, baseURL }) => (
       <meta property="og:image" content={`${baseURL}/static/meta-banner.png`} />
       <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} />
       <title>
-        {show.title} — Syntax Podcast {show.displayNumber}
+        {show.title} — The new Sermon {show.displayNumber}
       </title>
       <style dangerouslySetInnerHTML={{ __html: stylesheet.replace(/\n/g, '') }} />
     </Head>
