@@ -48,7 +48,6 @@ export default class Player extends React.Component {
   }
 
   timeUpdate = e => {
-    console.log('Updating Time');
     // Check if the user already had a curent time
     if (this.state.timeWasLoaded) {
       const lp = localStorage.getItem(`lastPlayed${this.props.show.number}`);

@@ -14,10 +14,10 @@ export default ({ show, baseURL }) => (
       <meta property="og:title" content={`${show.title} — Syntax Podcast ${show.displayNumber}`} />
       <meta
         property="og:description"
-        content="Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling."
+        content="Audio Sermons from the New Church."
       />
       <meta property="og:url" content={`${baseURL}/show/${show.displayNumber}/${slug(show.title)}`} />
-      <meta property="og:image" content={`${baseURL}/static/syntax-banner.png`} />
+      <meta property="og:image" content={`${baseURL}/static/meta-banner.png`} />
       <link rel="shortcut icon" href={`${baseURL}/static/favicon.png`} />
       <title>
         {show.title} — Syntax Podcast {show.displayNumber}
