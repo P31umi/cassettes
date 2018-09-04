@@ -10,8 +10,8 @@
     "alias": "now alias"
   },
   "now": {
-    "alias": [
-    ]
+    "name": "cassettes",
+    "alias": "cassettes.now.sh"
   },
   "dependencies": {
     "autoprefixer": "8.6.3",

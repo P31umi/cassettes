@@ -1,13 +1,14 @@
 ---
 number: 002
-title: Seek Wisdom, Knowledge and Rejoice 
-date: 1530572400000
-url: https://res.cloudinary.com/thenewsermon/video/upload/v1532083441/Seek_Winsdom_Knowledge_and_Rejoice_-_Pastor_Jimi_Tewe_-_Day_2_03.07.2018.mp3
+title: PRESS PLAY - Don't Give Up 
+date: 1527420630000
+url: https://res.cloudinary.com/thenewsermon/video/upload/v1535279372/Sun_27.05.2018_-_Pastor_Liam_Parker_-_Don_t_Give_Up.mp3
 ---
 
 ## Show Notes
-Seek Wisdom, Knowledge and Rejoice 
+_Pastor Liam Parker_
 
-_Pastor Jimi Tewe_
-
- Day 2 of the 7 days of Glory
+- Your passion will only increase when it affects other people.
+- When you feel like your passion is draining, go back to God.
+- When you are in line with Gods purpose, you can never fail.
+- Live with Passion, you can only fail when you stop trying.
