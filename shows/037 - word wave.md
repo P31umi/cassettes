@@ -8,6 +8,6 @@ url: https://res.cloudinary.com/thenewsermon/video/upload/v1538916933/07.10.2018
 ## Show Notes
 _Pastor Shola Okoduhga_
 
-### Feathers
+### Word Wave
 
 ![word wave](https://res.cloudinary.com/thenewsermon/image/upload/v1539185152/42979748_480282925714745_5494149219884319008_n.jpg)
