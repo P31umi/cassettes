@@ -1,7 +1,7 @@
 ---
 number: 042
 title: RESET - Switch it on
-date: 1542499200
+date: 1542566002000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1543161273/messages/Sunday_18.11.2018.-_Pastor_Bimbo_Ijisesan-_RESET_Switch_it_on.mp3
 ---
 
