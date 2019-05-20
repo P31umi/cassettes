@@ -2,7 +2,7 @@
 
 An audio streaming web app built for The new's messages.
 
-This is the site that runs [URL](#) — go there to listen to it!
+[cassettes.now.sh](https://cassettes.now.sh/) — go there to listen to it!
 
 This site is built on React and Next.js
 
