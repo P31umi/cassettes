@@ -2,10 +2,14 @@
   "engines": {
     "node": ">=8.1.2"
   },
+
   "repository": {
     "type": "git",
     "url": "https://github.com/P31umi/cassettes.git"
   },
+
+  "license": "UNLICENSED",
+
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
