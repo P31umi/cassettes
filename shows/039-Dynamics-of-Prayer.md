@@ -1,7 +1,7 @@
 ---
 number: 039
 title: Word Wave series - Dynamics Of Prayer
-date: 1540080000
+date: 1540146802000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1540124493/Sunday_10.21.2018_-_Pastor_Mayowa_Fakorede-_Dynamics_of_Prayer.mp3
 ---
 

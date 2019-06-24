@@ -1,7 +1,7 @@
 ---
 number: 038
 title: Word Wave series -
-date: 1539478800
+date: 1539542002000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1539520244/14.10.2018_-_Pastor_Adetoun_Adekoya-_Word_Wave_II_-_Word_Wave_Series.mp3
 
 ---
