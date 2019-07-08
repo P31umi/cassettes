@@ -1,7 +1,7 @@
 ---
 number: 068
 title: PSALMS AND HYMNS
-date: 1561982400
+date: 1561892556
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1561898685/messages/Psalms_and_Hymns.mp3
 ---
 
