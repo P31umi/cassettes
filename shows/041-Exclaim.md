@@ -1,7 +1,7 @@
 ---
 number: 041
 title: Exclaim
-date: 1541894400
+date: 1541961202000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1543160637/messages/Sunday.11.11.2018-_Victoria_Orenze_-_EXCLAIM.mp3
 ---
 
