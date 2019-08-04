@@ -1,7 +1,7 @@
 ---
 number: 065
 title: GROUNDS II - PASTOR SHOLA OKODUGHA
-date: 1560081610
+date: 15600816100100
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1560082603/messages/Grounds_II.mp3
 ---
 
