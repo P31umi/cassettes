@@ -1,7 +1,7 @@
 ---
 number: 064
 title: GETHSEMANE - PASTOR SHOLA OKODUGHA
-date: 15596748100100
+date: 1559679652000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1559680219/messages/Gethsemane_4th_June.mp3
 ---
 

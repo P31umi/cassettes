@@ -1,7 +1,7 @@
 ---
 number: 071
 title: Closet
-date: 15637147080100
+date: 1563740452000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1563714626/messages/Closets_-_Pastor_Shola_Okodugha.mp3
 ---
 

@@ -1,7 +1,7 @@
 ---
 number: 067
 title: GROUNDS IV - PASTOR DETOUN ADEKOYA, PASTOR SHOLA OKODUGHA
-date: 15612912100100
+date: 1561321252000
 url: https://res.cloudinary.com/thenewsermon/video/upload/v1561292504/messages/Grounds_IV.mp3
 ---
 
