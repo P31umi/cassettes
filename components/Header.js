@@ -1,4 +1,4 @@
-import Subscribe from './Subscribe';
+import Mixlr from './Mixlr';
 
 const Header = () => (
   <header className="header">
@@ -10,7 +10,8 @@ const Header = () => (
         <h1 className="tagline">Audio Sermons from The New</h1>
       </div>
     </div>
-    <Subscribe />
+
+    <Mixlr />
   </header>
 );
 
