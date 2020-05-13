@@ -2,20 +2,16 @@
   "engines": {
     "node": ">=8.1.2"
   },
-
   "repository": {
     "type": "git",
     "url": "https://github.com/P31umi/cassettes.git"
   },
-
   "license": "UNLICENSED",
-
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
     "start": "NODE_ENV=production node server.js",
-    "deploy": "now",
-    "alias": "now alias"
+    "deploy": "now && now alias cassettes.now.sh"
   },
   "now": {
     "name": "cassettes",
